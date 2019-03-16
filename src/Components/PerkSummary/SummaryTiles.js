@@ -64,7 +64,7 @@ export class SummaryTiles extends Component {
                     <form className="form-inline">
                         <label htmlFor="start" >Start</label>
                         <div className="form-group  mx-sm-3 pr-lg-5">
-                            <input type="date" className="form-control" id="start"/>
+                            <input type="date" className="form-control" id="start" placeholder="08/21/2017"/>
                         </div>
                         <label htmlFor="end">End</label>
                         <div className="form-group  mx-sm-3 ">
